@@ -1,0 +1,11 @@
+{
+  "cmake.configureOnOpen": false,
+  "C_Cpp.errorSquiggles": "Disabled",
+  "cSpell.words": [
+    "fgetsln"
+  ],
+  "files.associations": {
+    "interact_module.h": "c",
+    "stdlib.h": "c"
+  }
+}
